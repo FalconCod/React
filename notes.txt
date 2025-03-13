@@ -1,0 +1,3 @@
+React is made up of components
+A component is a piece of user interface that has its own logic and interface and appearance
+React components are JavaScript functions that return markup:
